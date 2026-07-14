@@ -1,4 +1,8 @@
 Abdul Hannan
 Abdul Mannan
+<<<<<<< HEAD
 
 Kubra
+=======
+Abdul Haiyan
+>>>>>>> feature-2
